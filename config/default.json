@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Nhk:abc@123@devcluster.kg58q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Nhk:abc@123@devcluster.kg58q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"hihk"
 }
